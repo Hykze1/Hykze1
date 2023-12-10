@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **learning Data Analytics stuff and libraries**
 
-- 👯 I’m looking to collaborate on **on projects with amazing minds**
+- 👯 I’m looking to collaborate on projects with amazing minds**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hykze1?tab=repositories](https://github.com/Hykze1?tab=repositories)
 
