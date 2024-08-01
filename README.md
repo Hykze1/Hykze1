@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hykze1&label=Profile%20views&color=0e75b6&style=flat" alt="hykze1" /> </p>
 
-- 🌱 I’m currently learning **learning Data Analytics stuff and libraries**
+- 🌱 I’m currently  A Machine Learning Data Annotation specialist 
 
-- 👯 I’m looking to collaborate on projects with amazing minds**
+- 👯 I’m looking to collaborate on projects with amazing minds and bring solution to businesses
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hykze1?tab=repositories](https://github.com/Hykze1?tab=repositories)
 
@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Hykze1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ikechukwu-osuya-4651a313b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/osuya.ikechukwu.1)  
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg](https://icon2.cleanpng.com/20240119/fs/transparent-x-logo-image-viewer-button-symbol-black-and-white-black-and-white-striped-x-button-for-image-1710915887579.webp)' alt='x' height='40'>](https://www.x.com/https://x.com/Hykze1)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +34,7 @@
 
 Playing games video_game
 
-Watching Football tv
+ Playing and Watching Soccer
 
 #Core Competencies:
 
@@ -44,6 +45,10 @@ Growth Analytics and Management
 Data Visualization
 
 Creative Thinking
+
+Data annotation
+
+Machine learning
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hykze1&show_icons=true&locale=en&layout=compact" alt="hykze1" /></p>
