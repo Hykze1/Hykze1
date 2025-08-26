@@ -19,11 +19,11 @@
 
 - 📫 How to reach me **osuyaikechukwu7@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am funny** https://www.linkedin.com/in/ikechukwuosuya/
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Hykze1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ikechukwu-osuya-4651a313b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/osuya.ikechukwu.1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Hykze1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ikechukwuosuya//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/osuya.ikechukwu.1)  
 [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg](https://icon2.cleanpng.com/20240119/fs/transparent-x-logo-image-viewer-button-symbol-black-and-white-black-and-white-striped-x-button-for-image-1710915887579.webp)' alt='x' height='40'>](https://www.x.com/https://x.com/Hykze1)
 </p>
 
